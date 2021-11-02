@@ -17,6 +17,7 @@
     "entrypoints",
     "loglevel",
     "pmmmwh",
+    "reduxjs",
     "svgr"
   ]
 }
